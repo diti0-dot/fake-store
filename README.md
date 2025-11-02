@@ -1,6 +1,6 @@
 🛒 Project: Shopping Cart
 
-🔗 Live Preview: [fke-st0re.netlify.app]
+🔗 Live Preview: [StyleStore](https://fke-st0re.netlify.app/)
 
 📋 Overview
 
